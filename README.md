@@ -20,8 +20,8 @@ it is neccesary to launch the mongodb first
 
 clear_db will delete the db
 
-1. npm install\
-2. sudo sh start_db\
+1. npm install
+2. sudo sh start_db
 3. node travelagency.js
  
 ## Structure
