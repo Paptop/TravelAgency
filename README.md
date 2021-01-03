@@ -57,4 +57,4 @@ The unique_id is the object._id of the objects
 
 Don't forget to set price id with set_tour before calling find_tour\
 /prices/set_tour - injects the price id to the tour object by specified id's\
-/prices/find_tour - finds the tours by specified sku //3rd task
+/prices/find_tour - finds the tours by specified sku of the Price model//3rd task
