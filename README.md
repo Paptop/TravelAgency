@@ -24,7 +24,7 @@ clear_db will delete the db
 2. sudo sh start_db
 
 //In another terminal
-3. node populate.js // Will put some data into the db
+3. node populate.js. Will put some data into the db \
 4. node travelagency.js
  
 ## Structure
