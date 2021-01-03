@@ -18,6 +18,8 @@ There are two scrips specified start_db.sh and clear_db.sh
 start_db will lauch mongodb at current directory with {REPO_PATH}/var/db\
 it is neccesary to launch the mongodb first
 
+mongodb://localhost:27017
+
 clear_db will delete the db
 
 1. npm install
