@@ -10,7 +10,7 @@ See the package.json for requirements
   "express-handlebars": "^5.2.0",
   "mongoose": "^5.11.8"
 
-The project uses MongoDB.
+The project uses MongoDB. Used with node v12.14.0.
 
 ## SetUp
 There are two scrips specified start_db.sh and clear_db.sh
