@@ -53,7 +53,7 @@ The unique_id is the object._id of the objects
 /tours/delete - delete the tour by specified unique id
 
 /prices/list - lists all the available prices\
-/prices/insert - inserts the new instance of prices to db\
+/prices/insert - inserts the new instance of prices to db
 
 Don't forget to set price id with set_tour before calling find_tour\
 /prices/set_tour - injects the price id to the tour object by specified id's\
