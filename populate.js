@@ -37,12 +37,12 @@ model.db_insert(
 )
 
 model.db_insert(
-    2,
-    "Caribbean Pirates",
-    "West Indies",
-    "Adventure",
+    3,
+    "Ancient Greece",
+    "Athens",
+    "Education",
     200,
-    "Shore"
+    "SightSeeing"
 )
 
 model.db_insert_prices(
