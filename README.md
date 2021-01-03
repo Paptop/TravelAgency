@@ -37,6 +37,9 @@ The db consists of base model Tour and sub models Sightseeing and Cruise.\
 The db also consists of the model Prices. The Tour model has a reference attribute for Price model.
 
 ## Usage
+
+Express running on http://localhost:3000/
+
 /tours/list - lists all the available tours\
 /tours/insert - inserts the new instance to db
 
