@@ -23,7 +23,7 @@ mongodb://localhost:27017
 clear_db will delete the db
 
 1. npm install
-2. sudo sh start_db
+2. sudo sh start_db.sh
 3. Open another terminal
 4. node populate.js. Will put some data into the db. Ctr+C to quit
 5. node travelagency.js
