@@ -65,5 +65,3 @@ model.db_insert_prices(
     "C604-25-035",
     2
 )
-
-process.exit(0)
