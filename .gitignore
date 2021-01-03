@@ -1,2 +1,4 @@
 node_modules/
+var/db/
 *.DS_Store
+*.swp
