@@ -55,6 +55,6 @@ The unique_id is the object._id of the objects
 /prices/list - lists all the available prices\
 /prices/insert - inserts the new instance of prices to db\
 
-Don't forget to set price id with set_tour before calling find_tour
+Don't forget to set price id with set_tour before calling find_tour\
 /prices/set_tour - injects the price id to the tour object by specified id's\
 /prices/find_tour - finds the tours by specified sku //3rd task
